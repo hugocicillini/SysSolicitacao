@@ -1,0 +1,185 @@
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysStudioTattoo.Frm_Acesso.resources
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.Frm_Artista.resources
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.Frm_Cliente.resources
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.Frm_Espetaculo.resources
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.Frm_Funcionario.resources
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.Frm_Genero.resources
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.Frm_Ingresso.resources
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysStudioTattoo.Frm_Login.resources
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.Frm_Pedido.resources
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.Frm_Principal.resources
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.Properties.Resources.resources
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\BD_SYSSOLICITACAO.mdf
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\BD_SYSSOLICITACAO_log.ldf
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\SysSolicitação.exe.config
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\SysSolicitação.exe
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\SysSolicitação.pdb
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\NAudio.Asio.dll
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\NAudio.Core.dll
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\NAudio.dll
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\NAudio.Midi.dll
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\NAudio.WinForms.dll
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\NAudio.WinMM.dll
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\NAudio.xml
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.csproj.CopyComplete
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.exe
+C:\Users\Hugo\Desktop\SysSolicitação\SysSolicitação\obj\Debug\SysSolicitação.pdb
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\BD_SYSSOLICITACAO.mdf
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\BD_SYSSOLICITACAO_log.ldf
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\SysSolicitação.exe.config
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\SysSolicitação.exe
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\SysSolicitação.pdb
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\NAudio.Asio.dll
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\NAudio.Core.dll
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\NAudio.dll
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\NAudio.Midi.dll
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\NAudio.Wasapi.dll
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\NAudio.WinForms.dll
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\NAudio.WinMM.dll
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\System.Security.AccessControl.dll
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\NAudio.xml
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\System.Security.AccessControl.xml
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.AssemblyReference.cache
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.SuggestedBindingRedirects.cache
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysStudioTattoo.Frm_Acesso.resources
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Artista.resources
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Cliente.resources
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Espetaculo.resources
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Funcionario.resources
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Genero.resources
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Ingresso.resources
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysStudioTattoo.Frm_Login.resources
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Pedido.resources
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Principal.resources
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Properties.Resources.resources
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.GenerateResource.cache
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.CoreCompileInputs.cache
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.CopyComplete
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.exe
+C:\Users\vpo20\OneDrive\Área de Trabalho\C#\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.pdb
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.AssemblyReference.cache
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.pdb
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\BD_SYSSOLICITACAO.mdf
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\BD_SYSSOLICITACAO_log.ldf
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\SysSolicitação.exe.config
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\SysSolicitação.exe
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\SysSolicitação.pdb
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\NAudio.Asio.dll
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\NAudio.Core.dll
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\NAudio.dll
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\NAudio.Midi.dll
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\NAudio.Wasapi.dll
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\NAudio.WinForms.dll
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\NAudio.WinMM.dll
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\System.Security.AccessControl.dll
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\NAudio.xml
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\System.Security.AccessControl.xml
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysStudioTattoo.Frm_Acesso.resources
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Artista.resources
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Cliente.resources
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Espetaculo.resources
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Funcionario.resources
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Genero.resources
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Ingresso.resources
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysStudioTattoo.Frm_Login.resources
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Pedido.resources
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Principal.resources
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Properties.Resources.resources
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.GenerateResource.cache
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.CoreCompileInputs.cache
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.CopyComplete
+C:\Users\hugo.coliveira3\source\repos\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.exe
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\BD_SYSSOLICITACAO.mdf
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\BD_SYSSOLICITACAO_log.ldf
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\SysSolicitação.exe.config
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\SysSolicitação.exe
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\SysSolicitação.pdb
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\NAudio.Asio.dll
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\NAudio.Core.dll
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\NAudio.dll
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\NAudio.Midi.dll
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\NAudio.WinForms.dll
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\NAudio.WinMM.dll
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\NAudio.xml
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysStudioTattoo.Frm_Acesso.resources
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Artista.resources
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Cliente.resources
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Espetaculo.resources
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Funcionario.resources
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Genero.resources
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Ingresso.resources
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysStudioTattoo.Frm_Login.resources
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Pedido.resources
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Principal.resources
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Properties.Resources.resources
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.CopyComplete
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.exe
+C:\Users\Hugo\Desktop\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.pdb
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\BD_SYSSOLICITACAO.mdf
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\BD_SYSSOLICITACAO_log.ldf
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\SysSolicitação.exe.config
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\SysSolicitação.exe
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\SysSolicitação.pdb
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\NAudio.Asio.dll
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\NAudio.Core.dll
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\NAudio.dll
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\NAudio.Midi.dll
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\NAudio.WinForms.dll
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\NAudio.WinMM.dll
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\NAudio.xml
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.AssemblyReference.cache
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysStudioTattoo.Frm_Acesso.resources
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Artista.resources
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Cliente.resources
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Espetaculo.resources
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Funcionario.resources
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Genero.resources
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Ingresso.resources
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysStudioTattoo.Frm_Login.resources
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Pedido.resources
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Frm_Principal.resources
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.Properties.Resources.resources
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.GenerateResource.cache
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.csproj.CopyComplete
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.exe
+C:\Users\Hugo\Documents\PROJETO\SysSolicitação\obj\Debug\SysSolicitação.pdb
